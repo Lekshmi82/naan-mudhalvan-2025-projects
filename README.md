@@ -30,20 +30,32 @@ readme: |
 NM-2025/
 │
 ├── Currency_Node_Authentication/
-│ ├── currency_auth.py
-│ └── samples/
+│ ├── data/
+│ ├── scripts/
+│ │ └── currency_auth.py
+│ └── README.md
 │
 ├── Autonomous_Dome_Surveillance/
-│ ├── object_tracking.py
-│ └── cam_feed.py
+│ ├── data/
+│ ├── scripts/
+│ │ ├── object_tracking.py
+│ │ └── cam_feed.py
+│ └── README.md
 │
 ├── Food_Quality_Inspection/
-│ ├── model.ipynb
-│ └── dataset/
+│ ├── dataset/
+│ ├── notebooks/
+│ │ └── model.ipynb
+│ ├── models/
+│ └── README.md
 │
 └── Underwater_Object_Detection/
-├── detect_underwater.py
-└── pretrained_model/
+├── data/
+├── scripts/
+│ └── detect_underwater.py
+├── models/
+└── README.md
+
 
 ---
 
@@ -53,9 +65,9 @@ NM-2025/
 ```bash
 git clone https://github.com/Lekshmi82/NM-2025.git
 cd NM-2025
-2.Navigate into any project folder and follow the instructions (code is well-commented).
-3.Run the scripts using Python or Jupyter Notebook, depending on the project.
+Navigate into the project folder you want to run. Each project has its own README with instructions.
 
+Run scripts using Python or Jupyter Notebook depending on the project.
 🎯 Goals
 
 These projects were developed to:
@@ -70,5 +82,9 @@ Feel free to connect for collaboration or queries:
 💼 LinkedIn
 💻 GitHub
 
+🎯 Goals
 
+Apply AI & CV concepts to real-world problems
+Build a hands-on projects for my Naan Mudhalvan 2025 Semester 6 Projects
+Learn project structuring, dataset handling, and model deployment basics
 
