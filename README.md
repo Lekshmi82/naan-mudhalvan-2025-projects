@@ -61,30 +61,31 @@ NM-2025/
 
 ## ⚙️ How to Use
 
-1. **Clone the repository:**
-```bash
+1.Clone the repository:
+```
 git clone https://github.com/Lekshmi82/NM-2025.git
 cd NM-2025
 Navigate into the project folder you want to run. Each project has its own README with instructions.
 
 Run scripts using Python or Jupyter Notebook depending on the project.
-🎯 Goals
+
+---
+## 🎯 Goals
 
 These projects were developed to:
 
 Apply AI and Computer Vision concepts to real-world problems
-Build a hands-on portfolio for Naan Mudhalvan 2025 Projects
+Build a hands-on portfolio for Naan Mudhalvan 2025 SEM 6 Projects
 Learn project structuring, dataset handling, and model deployment basics
 
-📫 Contact
+ ---
+
+## 📫 Contact
 
 Feel free to connect for collaboration or queries:
-💼 LinkedIn
-💻 GitHub
 
-🎯 Goals
+- 💼 [LinkedIn](https://www.linkedin.com/in/lekshmipriya-js2812/)  
+- 💻 [GitHub](https://github.com/Lekshmi82)
 
-Apply AI & CV concepts to real-world problems
-Build a hands-on projects for my Naan Mudhalvan 2025 Semester 6 Projects
-Learn project structuring, dataset handling, and model deployment basics
+ ---
 
