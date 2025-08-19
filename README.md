@@ -62,7 +62,7 @@ NM-2025/
 ## ⚙️ How to Use
 
 1.Clone the repository:
-```
+
 git clone https://github.com/Lekshmi82/NM-2025.git
 cd NM-2025
 Navigate into the project folder you want to run. Each project has its own README with instructions.
