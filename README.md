@@ -1,5 +1,4 @@
-readme: 
-  # 🚀 NM-2025 – AI & CV Projects
+ # 🚀 NM-2025 – AI & CV Projects
 
   This repository showcases **four innovative projects** built in 2025 as part of my **AI and Computer Vision** learning journey. These projects address real-world problems using a combination of **deep learning**, **image processing**, and **intelligent systems**.  
 
